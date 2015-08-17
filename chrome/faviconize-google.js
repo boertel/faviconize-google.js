@@ -1,5 +1,5 @@
 var FAVICON_GRABBER = 'https://www.google.com/s2/favicons?domain='; // 'http://favicon.yandex.net/favicon/'
-var QUERY = '#res li.g h3 a, #res > div.g > a';
+var QUERY = '#res .g h3 > a';
 
 /**
  * @param {NodeList} links
